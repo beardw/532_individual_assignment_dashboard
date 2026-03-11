@@ -76,16 +76,16 @@ ui <- page_sidebar(
   layout_columns(
     card(
       card_header("Most Popular Industries"),
-      plotOutput("top_industries", height = 2000)
+      plotOutput("top_industries", height = 1800)
     ),
     card(
       card_header("Yearly Average Starting Salary (USD)"),
-      plotOutput("average_salary", height = 2000)
+      plotOutput("average_salary", height = 1800)
     ),
   ),
   card(
     card_header("Global Universities Field, Salary, and Degree Level "),
-    dataTableOutput("university_table")
+    dataTableOutput("university_table", )
   )
 )
 
