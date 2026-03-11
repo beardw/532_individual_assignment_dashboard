@@ -2,7 +2,9 @@
 
 ## 532 Individual Assignment Dashboard
 
-Welcome to an R version of the Graduate Skills Employability Dashboard. It has a similar feel and layout to its predecessor, however, it is simpler and I have decided to display the data differently than how it was presented in the large team-created dashboard.
+Welcome to an R version of the Graduate Skills Employability Dashboard. It has a similar feel and layout to its predecessor, however, it is simpler and I have decided to display the data differently than how it was presented in the large team-created dashboard. 
+
+Users can continue to explore popular industries, fields of study, degree levels, and various salary ranges for universities located across the globe. The aim remains the same: help those make informed decisions regarding their future educational persuits.
 
 To be able to run this dashboard locally, you will need to have the packages listed below.
 
