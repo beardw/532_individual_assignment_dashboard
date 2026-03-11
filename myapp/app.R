@@ -85,7 +85,7 @@ ui <- page_sidebar(
   ),
   card(
     card_header("Global Universities Field, Salary, and Degree Level "),
-    dataTableOutput("university_table", )
+    dataTableOutput("university_table")
   )
 )
 
